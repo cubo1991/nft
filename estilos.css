@@ -15,6 +15,10 @@ background-color: #fbeb04;}
     height: 500px;
 }
 
+.seccionNarrativa {
+    height: 600px;
+}
+
 #Roadmap {
     height: 200px;
     background-color: #fbeb04;
@@ -29,3 +33,13 @@ footer {
     margin-left: 75px;
     height: 25%;
 width: 25%;}
+
+.imagenCarrousel {
+    
+    height: 200px;
+width: 100px;}
+
+
+p{margin-left: 5%;
+    margin-right: 5%;
+margin-top: 5%;}
