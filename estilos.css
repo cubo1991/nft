@@ -1,0 +1,31 @@
+
+.cabezal {height:30px;
+background-color: #fbeb04;}
+.seccionImagenCabezal {
+    height: 500px;
+    background-image: url(./imagenes/cabezal_prelanzamiento.png);
+    background-color: white;
+}
+.seccionImagenes {
+    height: 500px;
+    background-color: #fbeb04 ;
+}
+
+.seccionTexto {
+    height: 500px;
+}
+
+#Roadmap {
+    height: 200px;
+    background-color: #fbeb04;
+}
+
+footer {
+    height: 300px;
+    background-color: black;
+}
+
+.imagen {
+    margin-left: 75px;
+    height: 25%;
+width: 25%;}
