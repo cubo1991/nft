@@ -1,6 +1,11 @@
-
+body {background-color: #fbeb04;}
 .cabezal {height:30px;
 background-color: #fbeb04;}
+
+.margen {
+    margin-left: 0%;
+    margin-right: 0%;
+}
 .seccionImagenCabezal {
     height: 500px;
     background-image: url(./imagenes/cabezal_prelanzamiento.png);
@@ -36,8 +41,8 @@ width: 25%;}
 
 .imagenCarrousel {
     
-    height: 300px;
-width: 300px;
+    height: 250px;
+width: 250px;
 margin: 50px 50px 0px 50px;}
 
 .carrousel {
@@ -54,12 +59,10 @@ margin: 50px 50px 0px 50px;}
 
 .imagenMiembros {
     
-    height: 200px;
-width: 200px;
+    height: 175px;
+width: 175px;
 margin: 50px 50px 0px 50px;}
-p{margin-left: 5%;
-    margin-right: 5%;
-margin-top: 5%;}
+p{ text-align: justify;}
 
 .epigrafe{margin-left: 120px;}
 
